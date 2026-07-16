@@ -1,4 +1,5 @@
-# PulsarNET - Deep Learning Pipeline for Imbalanced Binary Classification
+# PulsarNET 
+#### Where INIFIGA SkyEcho began - an early ANN experiment in finding real pulsars inside 98% noise.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -7,6 +8,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.2.2-150458?style=flat-square&logo=pandas&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+
+
+
+> 🌱 **This is where it started.** PulsarNET was the first experiment that led
+> to [INIFIGA SkyEcho](https://github.com/ilpeiris/INIFIGA-SkyEcho) - a
+> production-grade, deployed real-time pulsar & FRB detection system built
+> on these same ideas. Kept here unmodified as the origin story.
+
 
 This is a binary classification system that detects real pulsars (rotating neutron stars) from radio telescope noise using an Artificial Neural Network (ANN).
 
@@ -492,9 +502,11 @@ In every case the mathematical structure is identical to pulsar classification: 
 
 ## Author
 
-**Isuru Lakmal Peiris**
+**M.D. Isuru Lakmal Peiris**
 GitHub: [@ilpeiris](https://github.com/ilpeiris)
 LinkedIn: [linkedin.com/in/ilpeiris](https://linkedin.com/in/ilpeiris)
+
+**Current work:** [INIFIGA SkyEcho](https://github.com/ilpeiris/INIFIGA-SkyEcho) - the production evolution of this project.
 
 ## License
 
