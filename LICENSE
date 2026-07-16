@@ -1,4 +1,16 @@
-                                 Apache License
+PulsarNET
+Copyright (C) 2025 M.D. Isuru Lakmal Peiris
+
+This project is part of the INIFIGA open-source initiative.
+Repository: https://github.com/ilpeiris/PulsarNET-Deep-Learning-Pipeline-for-Imbalanced-Binary-Classification
+
+
+===============================================================================
+
+
+
+
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -186,7 +198,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright (C) 2025 M.D. Isuru Lakmal Peiris
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
